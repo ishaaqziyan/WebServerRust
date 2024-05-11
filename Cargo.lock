@@ -1646,6 +1646,7 @@ dependencies = [
  "actix-web",
  "async-trait",
  "dotenv",
+ "rand",
  "reqwest",
  "serde",
  "serde_json",
